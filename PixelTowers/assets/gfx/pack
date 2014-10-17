@@ -1,0 +1,852 @@
+
+gfx1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backgroundLayer06b
+  rotate: false
+  xy: 0, 0
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+backgroundLayer06a
+  rotate: false
+  xy: 122, 0
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+backgroundLayer06
+  rotate: false
+  xy: 244, 0
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+pauseBackdrop
+  rotate: false
+  xy: 366, 0
+  size: 65, 176
+  orig: 65, 176
+  offset: 0, 0
+  index: -1
+pixelTowerLogo02
+  rotate: false
+  xy: 0, 202
+  size: 110, 172
+  orig: 110, 172
+  offset: 0, 0
+  index: -1
+pixelTowerLogo
+  rotate: false
+  xy: 112, 202
+  size: 110, 172
+  orig: 110, 172
+  offset: 0, 0
+  index: -1
+highscoreBanner01
+  rotate: false
+  xy: 224, 202
+  size: 103, 172
+  orig: 103, 172
+  offset: 0, 0
+  index: -1
+backgroundLayer05
+  rotate: false
+  xy: 329, 202
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+backgroundLayer04
+  rotate: false
+  xy: 0, 376
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+gameoverBackdrop
+  rotate: false
+  xy: 122, 376
+  size: 103, 98
+  orig: 103, 98
+  offset: 0, 0
+  index: -1
+backgroundLayer03
+  rotate: false
+  xy: 227, 376
+  size: 120, 82
+  orig: 120, 82
+  offset: 0, 0
+  index: -1
+backgroundLayer02
+  rotate: false
+  xy: 349, 376
+  size: 120, 74
+  orig: 120, 74
+  offset: 0, 0
+  index: -1
+cloud03
+  rotate: false
+  xy: 0, 485
+  size: 103, 44
+  orig: 103, 44
+  offset: 0, 0
+  index: -1
+craneMain01
+  rotate: false
+  xy: 433, 0
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+backgroundSun01
+  rotate: false
+  xy: 450, 0
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+cloudLayer01
+  rotate: false
+  xy: 105, 485
+  size: 199, 32
+  orig: 199, 32
+  offset: 0, 0
+  index: -1
+backgroundLayer01
+  rotate: false
+  xy: 329, 344
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: false
+  xy: 349, 452
+  size: 113, 30
+  orig: 113, 30
+  offset: 0, 0
+  index: -1
+extraStack
+  rotate: false
+  xy: 433, 37
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+bonusBlock
+  rotate: false
+  xy: 433, 69
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+slowDown
+  rotate: false
+  xy: 433, 101
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 306, 485
+  size: 110, 29
+  orig: 110, 29
+  offset: 0, 0
+  index: -1
+cloudLayer02
+  rotate: false
+  xy: 0, 531
+  size: 200, 28
+  orig: 200, 28
+  offset: 0, 0
+  index: -1
+backgroundMoon01
+  rotate: false
+  xy: 485, 0
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+jokesUfo01
+  rotate: false
+  xy: 366, 178
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+beerYes
+  rotate: false
+  xy: 388, 178
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+beerNo
+  rotate: false
+  xy: 407, 178
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+groundLayer01
+  rotate: false
+  xy: 227, 460
+  size: 120, 15
+  orig: 120, 15
+  offset: 0, 0
+  index: -1
+replayIcon
+  rotate: false
+  xy: 485, 37
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+menuIcon
+  rotate: false
+  xy: 485, 69
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+highscoreIcon
+  rotate: false
+  xy: 480, 101
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+timberStudRight02
+  rotate: false
+  xy: 433, 133
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+timberStudRight01
+  rotate: false
+  xy: 433, 150
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+timberStudLeft02
+  rotate: false
+  xy: 433, 167
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+timberStudLeft01
+  rotate: false
+  xy: 433, 184
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalStairsRoom02
+  rotate: false
+  xy: 450, 133
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalStairsRoom01
+  rotate: false
+  xy: 467, 133
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalStairsCase01
+  rotate: false
+  xy: 484, 133
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalRightRoom04
+  rotate: false
+  xy: 450, 150
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalRightRoom03
+  rotate: false
+  xy: 450, 167
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalRightRoom02
+  rotate: false
+  xy: 450, 184
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalRightRoom01
+  rotate: false
+  xy: 467, 150
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalMiddleRoom05
+  rotate: false
+  xy: 484, 150
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalMiddleRoom04
+  rotate: false
+  xy: 467, 167
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalMiddleRoom03
+  rotate: false
+  xy: 467, 184
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalMiddleRoom02
+  rotate: false
+  xy: 484, 167
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalMiddleRoom01
+  rotate: false
+  xy: 484, 184
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalLeftRoom04
+  rotate: false
+  xy: 451, 202
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalLeftRoom03
+  rotate: false
+  xy: 468, 202
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalLeftRoom02
+  rotate: false
+  xy: 485, 202
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+normalLeftRoom01
+  rotate: false
+  xy: 451, 219
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+labRightRoom02
+  rotate: false
+  xy: 468, 219
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+labRightRoom01
+  rotate: false
+  xy: 485, 219
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+labMiddleRoom03
+  rotate: false
+  xy: 451, 236
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+labMiddleRoom02
+  rotate: false
+  xy: 468, 236
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+labMiddleRoom01
+  rotate: false
+  xy: 485, 236
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+labLeftRoom02
+  rotate: false
+  xy: 451, 253
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+labLeftRoom01
+  rotate: false
+  xy: 468, 253
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+craneTile01
+  rotate: false
+  xy: 485, 253
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+biblioRightRoom02
+  rotate: false
+  xy: 451, 270
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+biblioRightRoom01
+  rotate: false
+  xy: 468, 270
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+biblioMiddleRoom03
+  rotate: false
+  xy: 485, 270
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+biblioMiddleRoom02
+  rotate: false
+  xy: 451, 287
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+biblioMiddleRoom01
+  rotate: false
+  xy: 468, 287
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+biblioLeftRoom02
+  rotate: false
+  xy: 485, 287
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+biblioLeftRoom01
+  rotate: false
+  xy: 451, 304
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+balconyRight02
+  rotate: false
+  xy: 468, 304
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+balconyRight01
+  rotate: false
+  xy: 485, 304
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+balconyLeft02
+  rotate: false
+  xy: 451, 321
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+balconyLeft01
+  rotate: false
+  xy: 451, 338
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ateriumRightRoom02
+  rotate: false
+  xy: 451, 355
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ateriumRightRoom01
+  rotate: false
+  xy: 468, 321
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ateriumMiddleRoom03
+  rotate: false
+  xy: 485, 321
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ateriumMiddleRoom02
+  rotate: false
+  xy: 468, 338
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ateriumMiddleRoom01
+  rotate: false
+  xy: 468, 355
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ateriumLeftRoom02
+  rotate: false
+  xy: 485, 338
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ateriumLeftRoom01
+  rotate: false
+  xy: 485, 355
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+twitter
+  rotate: false
+  xy: 498, 101
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+rss
+  rotate: false
+  xy: 471, 376
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+market
+  rotate: false
+  xy: 486, 376
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+outsideWall02
+  rotate: false
+  xy: 426, 178
+  size: 2, 15
+  orig: 2, 15
+  offset: 0, 0
+  index: -1
+outsideWall01
+  rotate: false
+  xy: 503, 37
+  size: 2, 15
+  orig: 2, 15
+  offset: 0, 0
+  index: -1
+highScore01
+  rotate: false
+  xy: 202, 531
+  size: 120, 13
+  orig: 120, 13
+  offset: 0, 0
+  index: -1
+cloudLayer03
+  rotate: false
+  xy: 0, 561
+  size: 200, 12
+  orig: 200, 12
+  offset: 0, 0
+  index: -1
+greyOverlay
+  rotate: false
+  xy: 485, 54
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+craneHook01
+  rotate: false
+  xy: 485, 86
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+craneChain01
+  rotate: false
+  xy: 507, 37
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+man06Walk
+  rotate: false
+  xy: 485, 30
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+man05Walk
+  rotate: false
+  xy: 493, 30
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+man04Walk
+  rotate: false
+  xy: 501, 30
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+man03Walk
+  rotate: false
+  xy: 498, 54
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+man02Walk
+  rotate: false
+  xy: 506, 54
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+man01Walk
+  rotate: false
+  xy: 498, 59
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+man06SleepRight
+  rotate: false
+  xy: 426, 195
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man06SleepLeft
+  rotate: false
+  xy: 509, 30
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man06SitRight
+  rotate: false
+  xy: 507, 47
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man06SitLeft
+  rotate: false
+  xy: 498, 64
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man05SleepRight
+  rotate: false
+  xy: 506, 59
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man05SleepLeft
+  rotate: false
+  xy: 506, 64
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man05SitRight
+  rotate: false
+  xy: 503, 69
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man05SitLeft
+  rotate: false
+  xy: 508, 69
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man04SleepRight
+  rotate: false
+  xy: 503, 74
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man04SleepLeft
+  rotate: false
+  xy: 508, 74
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man04SitRight
+  rotate: false
+  xy: 503, 79
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man04SitLeft
+  rotate: false
+  xy: 508, 79
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man03SleepRight
+  rotate: false
+  xy: 485, 96
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man03SleepLeft
+  rotate: false
+  xy: 490, 96
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man03SitRight
+  rotate: false
+  xy: 495, 96
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man03SitLeft
+  rotate: false
+  xy: 502, 86
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man02SleepRight
+  rotate: false
+  xy: 507, 86
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man02SleepLeft
+  rotate: false
+  xy: 502, 91
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man02SitRight
+  rotate: false
+  xy: 502, 96
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man02SitLeft
+  rotate: false
+  xy: 507, 91
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man01SleepRight
+  rotate: false
+  xy: 507, 96
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man01SleepLeft
+  rotate: false
+  xy: 480, 118
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man01SitRight
+  rotate: false
+  xy: 480, 123
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+man01SitLeft
+  rotate: false
+  xy: 480, 128
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+dustParticle
+  rotate: false
+  xy: 485, 118
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+highscoreParticle
+  rotate: false
+  xy: 430, 178
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+explosionParticle
+  rotate: false
+  xy: 430, 181
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bloodParticle
+  rotate: false
+  xy: 430, 184
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
